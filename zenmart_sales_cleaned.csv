@@ -1,0 +1,121 @@
+Invoice_ID,Branch,City,Customer_Type,Gender,Product Category,Quantity,Unit Price,Tax_5%,Total,Payment Method,Rating,Date,Day,Month,Year,Revenue,Profit
+INV-1000,ZenMart Central,Hyderabad,Non-Member,Male,Meat,7,464,162.4,3410.4,Cash,3,1,Monday,1,2024,3248,324.8
+INV-1001,ZenMart East,Vijayawada,Non-Member,Female,Meat,6,895,268.5,5638.5,Upi,3,2,Tuesday,1,2024,5370,537
+INV-1002,ZenMart Central,Vizag,Member,Female,Snacks,5,201,50.25,1055.25,Credit Card,2,3,Wednesday,1,2024,1005,100.5
+INV-1003,ZenMart Central,Vijayawada,Member,Female,Cosmetics,4,186,37.2,781.2,Cash,3,4,Thursday,1,2024,744,74.4
+INV-1004,ZenMart East,Vijayawada,Non-Member,Female,Groceries,2,110,11,231,Upi,3,5,Friday,1,2024,220,22
+INV-1005,ZenMart East,Hyderabad,Member,Female,Beverages,4,733,146.6,3078.6,Credit Card,5,6,Saturday,1,2024,2932,293.2
+INV-1006,ZenMart Central,Vijayawada,Non-Member,Male,Meat,3,877,131.55,2762.55,Credit Card,5,7,Sunday,1,2024,2631,263.1
+INV-1007,ZenMart West,Hyderabad,Non-Member,Male,Snacks,1,550,27.5,577.5,Cash,2,8,Monday,1,2024,550,55
+INV-1008,ZenMart Central,Vijayawada,Member,Female,Bakery,8,58,23.2,487.2,Cash,6,9,Tuesday,1,2024,464,46.4
+INV-1009,ZenMart Central,Vizag,Member,Female,Snacks,5,145,36.25,761.25,Cash,5,10,Wednesday,1,2024,725,72.5
+INV-1010,ZenMart Central,Vijayawada,Non-Member,Male,Beverages,4,470,94,1974,Upi,6,11,Thursday,1,2024,1880,188
+INV-1011,ZenMart Central,Hyderabad,Non-Member,Male,Beverages,8,192,76.8,1612.8,Cash,1,12,Friday,1,2024,1536,153.6
+INV-1012,ZenMart East,Hyderabad,Member,Female,Snacks,7,672,235.2,4939.2,Credit Card,5,13,Saturday,1,2024,4704,470.4
+INV-1013,ZenMart Central,Vizag,Non-Member,Male,Groceries,2,773,77.3,1623.3,Credit Card,9,14,Sunday,1,2024,1546,154.6
+INV-1014,ZenMart West,Vijayawada,Member,Female,Household,1,239,11.95,250.95,Cash,2,15,Monday,1,2024,239,23.9
+INV-1015,ZenMart East,Vijayawada,Non-Member,Male,Beverages,4,657,131.4,2759.4,Cash,1,16,Tuesday,1,2024,2628,262.8
+INV-1016,ZenMart West,Vizag,Member,Female,Snacks,8,77,30.8,646.8,Credit Card,9,17,Wednesday,1,2024,616,61.6
+INV-1017,ZenMart West,Vijayawada,Member,Male,Meat,2,679,67.9,1425.9,Upi,9,18,Thursday,1,2024,1358,135.8
+INV-1018,ZenMart West,Vijayawada,Member,Female,Snacks,3,495,74.25,1559.25,Cash,9,19,Friday,1,2024,1485,148.5
+INV-1019,ZenMart West,Hyderabad,Non-Member,Male,Cosmetics,1,475,23.75,498.75,Cash,6,20,Saturday,1,2024,475,47.5
+INV-1020,ZenMart East,Vijayawada,Non-Member,Male,Household,1,848,42.4,890.4,Credit Card,8,21,Sunday,1,2024,848,84.8
+INV-1021,ZenMart East,Vijayawada,Member,Female,Bakery,3,380,57,1197,Cash,1,22,Monday,1,2024,1140,114
+INV-1022,ZenMart West,Vizag,Non-Member,Male,Groceries,5,20,5,105,Upi,4,23,Tuesday,1,2024,100,10
+INV-1023,ZenMart West,Vizag,Member,Female,Electronics,3,406,60.9,1278.9,Credit Card,1,24,Wednesday,1,2024,1218,121.8
+INV-1024,ZenMart East,Hyderabad,Member,Male,Bakery,1,367,18.35,385.35,Cash,8,25,Thursday,1,2024,367,36.7
+INV-1025,ZenMart East,Vijayawada,Non-Member,Female,Household,1,209,10.45,219.45,Credit Card,1,26,Friday,1,2024,209,20.9
+INV-1026,ZenMart East,Vijayawada,Non-Member,Male,Household,8,524,209.6,4401.6,Cash,3,27,Saturday,1,2024,4192,419.2
+INV-1027,ZenMart Central,Vijayawada,Member,Female,Household,2,210,21,441,Cash,4,28,Sunday,1,2024,420,42
+INV-1028,ZenMart Central,Hyderabad,Non-Member,Male,Bakery,3,527,79.05,1660.05,Cash,8,29,Monday,1,2024,1581,158.1
+INV-1029,ZenMart Central,Hyderabad,Non-Member,Female,Meat,2,388,38.8,814.8,Upi,6,30,Tuesday,1,2024,776,77.6
+INV-1030,ZenMart West,Vizag,Member,Male,Household,3,428,64.2,1348.2,Upi,7,31,Wednesday,1,2024,1284,128.4
+INV-1031,ZenMart Central,Hyderabad,Member,Female,Snacks,7,843,295.05,6196.05,Credit Card,8,1,Thursday,2,2024,5901,590.1
+INV-1032,ZenMart West,Vijayawada,Non-Member,Female,Bakery,1,136,6.8,142.8,Cash,2,2,Friday,2,2024,136,13.6
+INV-1033,ZenMart West,Vijayawada,Member,Female,Electronics,8,153,61.2,1285.2,Cash,8,3,Saturday,2,2024,1224,122.4
+INV-1034,ZenMart Central,Hyderabad,Member,Male,Household,2,77,7.7,161.7,Upi,3,4,Sunday,2,2024,154,15.4
+INV-1035,ZenMart West,Vijayawada,Non-Member,Female,Snacks,3,575,86.25,1811.25,Cash,7,5,Monday,2,2024,1725,172.5
+INV-1036,ZenMart Central,Vijayawada,Member,Male,Meat,9,704,316.8,6652.8,Upi,3,6,Tuesday,2,2024,6336,633.6
+INV-1037,ZenMart Central,Hyderabad,Member,Female,Cosmetics,7,691,241.85,5078.85,Cash,7,7,Wednesday,2,2024,4837,483.7
+INV-1038,ZenMart East,Hyderabad,Non-Member,Male,Meat,4,192,38.4,806.4,Credit Card,2,8,Thursday,2,2024,768,76.8
+INV-1039,ZenMart Central,Vijayawada,Non-Member,Female,Electronics,5,848,212,4452,Cash,6,9,Friday,2,2024,4240,424
+INV-1040,ZenMart East,Vijayawada,Member,Male,Household,2,834,83.4,1751.4,Cash,3,10,Saturday,2,2024,1668,166.8
+INV-1041,ZenMart Central,Vijayawada,Member,Male,Electronics,8,168,67.2,1411.2,Upi,3,11,Sunday,2,2024,1344,134.4
+INV-1042,ZenMart Central,Vizag,Non-Member,Female,Bakery,4,99,19.8,415.8,Cash,9,12,Monday,2,2024,396,39.6
+INV-1043,ZenMart East,Vizag,Non-Member,Male,Beverages,9,232,104.4,2192.4,Cash,7,13,Tuesday,2,2024,2088,208.8
+INV-1044,ZenMart East,Vizag,Non-Member,Male,Household,5,222,55.5,1165.5,Upi,5,14,Wednesday,2,2024,1110,111
+INV-1045,ZenMart Central,Hyderabad,Non-Member,Female,Beverages,9,783,352.35,7399.35,Credit Card,7,15,Thursday,2,2024,7047,704.7
+INV-1046,ZenMart West,Vizag,Member,Male,Snacks,4,248,49.6,1041.6,Credit Card,9,16,Friday,2,2024,992,99.2
+INV-1047,ZenMart East,Hyderabad,Non-Member,Male,Cosmetics,5,695,173.75,3648.75,Upi,1,17,Saturday,2,2024,3475,347.5
+INV-1048,ZenMart West,Hyderabad,Non-Member,Male,Groceries,9,246,110.7,2324.7,Upi,7,18,Sunday,2,2024,2214,221.4
+INV-1049,ZenMart West,Vizag,Member,Female,Electronics,8,678,271.2,5695.2,Upi,6,19,Monday,2,2024,5424,542.4
+INV-1050,ZenMart West,Vizag,Non-Member,Male,Meat,3,551,82.65,1735.65,Upi,9,20,Tuesday,2,2024,1653,165.3
+INV-1051,ZenMart East,Vizag,Member,Female,Cosmetics,1,460,23,483,Upi,1,21,Wednesday,2,2024,460,46
+INV-1052,ZenMart West,Vijayawada,Non-Member,Male,Household,3,421,63.15,1326.15,Credit Card,4,22,Thursday,2,2024,1263,126.3
+INV-1053,ZenMart East,Vizag,Non-Member,Male,Beverages,4,66,13.2,277.2,Credit Card,9,23,Friday,2,2024,264,26.4
+INV-1054,ZenMart West,Vijayawada,Non-Member,Male,Meat,2,252,25.2,529.2,Upi,4,24,Saturday,2,2024,504,50.4
+INV-1055,ZenMart Central,Hyderabad,Member,Female,Beverages,1,324,16.2,340.2,Cash,3,25,Sunday,2,2024,324,32.4
+INV-1056,ZenMart Central,Vijayawada,Member,Male,Bakery,7,545,190.75,4005.75,Upi,9,26,Monday,2,2024,3815,381.5
+INV-1057,ZenMart East,Vizag,Non-Member,Male,Beverages,8,162,64.8,1360.8,Cash,2,27,Tuesday,2,2024,1296,129.6
+INV-1058,ZenMart Central,Hyderabad,Member,Female,Bakery,7,434,151.9,3189.9,Upi,4,28,Wednesday,2,2024,3038,303.8
+INV-1059,ZenMart Central,Hyderabad,Member,Male,Snacks,5,532,133,2793,Upi,6,1,Thursday,3,2024,2660,266
+INV-1060,ZenMart West,Hyderabad,Member,Female,Meat,1,392,19.6,411.6,Credit Card,2,2,Friday,3,2024,392,39.2
+INV-1061,ZenMart East,Vijayawada,Member,Female,Meat,7,585,204.75,4299.75,Cash,8,3,Saturday,3,2024,4095,409.5
+INV-1062,ZenMart West,Vizag,Member,Male,Groceries,7,278,97.3,2043.3,Cash,8,4,Sunday,3,2024,1946,194.6
+INV-1063,ZenMart West,Hyderabad,Member,Female,Household,9,675,303.75,6378.75,Credit Card,1,5,Monday,3,2024,6075,607.5
+INV-1064,ZenMart West,Hyderabad,Non-Member,Male,Bakery,3,490,73.5,1543.5,Credit Card,3,6,Tuesday,3,2024,1470,147
+INV-1065,ZenMart West,Hyderabad,Non-Member,Female,Groceries,9,31,13.95,292.95,Credit Card,9,7,Wednesday,3,2024,279,27.9
+INV-1066,ZenMart West,Vijayawada,Member,Female,Beverages,1,349,17.45,366.45,Credit Card,5,8,Thursday,3,2024,349,34.9
+INV-1067,ZenMart West,Vijayawada,Non-Member,Male,Beverages,1,755,37.75,792.75,Cash,6,9,Friday,3,2024,755,75.5
+INV-1068,ZenMart West,Vizag,Non-Member,Female,Groceries,4,803,160.6,3372.6,Cash,4,10,Saturday,3,2024,3212,321.2
+INV-1069,ZenMart East,Vijayawada,Non-Member,Female,Meat,9,377,169.65,3562.65,Upi,2,11,Sunday,3,2024,3393,339.3
+INV-1070,ZenMart Central,Hyderabad,Non-Member,Female,Beverages,6,427,128.1,2690.1,Upi,8,12,Monday,3,2024,2562,256.2
+INV-1071,ZenMart West,Vizag,Member,Female,Electronics,3,687,103.05,2164.05,Credit Card,6,13,Tuesday,3,2024,2061,206.1
+INV-1072,ZenMart West,Hyderabad,Non-Member,Female,Snacks,1,392,19.6,411.6,Credit Card,5,14,Wednesday,3,2024,392,39.2
+INV-1073,ZenMart West,Hyderabad,Non-Member,Male,Snacks,4,27,5.4,113.4,Credit Card,9,15,Thursday,3,2024,108,10.8
+INV-1074,ZenMart West,Vijayawada,Member,Female,Electronics,9,141,63.45,1332.45,Upi,1,16,Friday,3,2024,1269,126.9
+INV-1075,ZenMart West,Vizag,Member,Male,Groceries,3,367,55.05,1156.05,Upi,5,17,Saturday,3,2024,1101,110.1
+INV-1076,ZenMart West,Vijayawada,Non-Member,Female,Electronics,9,695,312.75,6567.75,Upi,6,18,Sunday,3,2024,6255,625.5
+INV-1077,ZenMart Central,Vijayawada,Non-Member,Male,Bakery,7,109,38.15,801.15,Upi,5,19,Monday,3,2024,763,76.3
+INV-1078,ZenMart Central,Vizag,Non-Member,Male,Bakery,4,667,133.4,2801.4,Upi,6,20,Tuesday,3,2024,2668,266.8
+INV-1079,ZenMart West,Hyderabad,Non-Member,Female,Groceries,3,717,107.55,2258.55,Upi,6,21,Wednesday,3,2024,2151,215.1
+INV-1080,ZenMart Central,Hyderabad,Non-Member,Female,Electronics,5,335,83.75,1758.75,Upi,7,22,Thursday,3,2024,1675,167.5
+INV-1081,ZenMart East,Vizag,Non-Member,Female,Bakery,5,197,49.25,1034.25,Credit Card,4,23,Friday,3,2024,985,98.5
+INV-1082,ZenMart West,Hyderabad,Member,Male,Meat,3,559,83.85,1760.85,Credit Card,8,24,Saturday,3,2024,1677,167.7
+INV-1083,ZenMart East,Vizag,Non-Member,Female,Electronics,9,751,337.95,7096.95,Credit Card,7,25,Sunday,3,2024,6759,675.9
+INV-1084,ZenMart East,Vizag,Non-Member,Male,Meat,4,888,177.6,3729.6,Credit Card,9,26,Monday,3,2024,3552,355.2
+INV-1085,ZenMart West,Vijayawada,Member,Male,Bakery,5,60,15,315,Upi,7,27,Tuesday,3,2024,300,30
+INV-1086,ZenMart Central,Vizag,Member,Male,Snacks,4,759,151.8,3187.8,Cash,3,28,Wednesday,3,2024,3036,303.6
+INV-1087,ZenMart East,Vijayawada,Member,Female,Bakery,5,723,180.75,3795.75,Upi,3,29,Thursday,3,2024,3615,361.5
+INV-1088,ZenMart West,Hyderabad,Member,Female,Meat,7,521,182.35,3829.35,Cash,8,30,Friday,3,2024,3647,364.7
+INV-1089,ZenMart East,Hyderabad,Non-Member,Male,Cosmetics,9,164,73.8,1549.8,Credit Card,5,31,Saturday,3,2024,1476,147.6
+INV-1090,ZenMart East,Hyderabad,Non-Member,Male,Household,7,220,77,1617,Upi,4,1,Sunday,4,2024,1540,154
+INV-1091,ZenMart East,Hyderabad,Non-Member,Female,Beverages,5,743,185.75,3900.75,Credit Card,8,2,Monday,4,2024,3715,371.5
+INV-1092,ZenMart East,Vijayawada,Non-Member,Male,Electronics,7,480,168,3528,Upi,6,3,Tuesday,4,2024,3360,336
+INV-1093,ZenMart Central,Hyderabad,Non-Member,Female,Cosmetics,5,751,187.75,3942.75,Credit Card,2,4,Wednesday,4,2024,3755,375.5
+INV-1094,ZenMart East,Vizag,Non-Member,Male,Bakery,3,771,115.65,2428.65,Cash,4,5,Thursday,4,2024,2313,231.3
+INV-1095,ZenMart East,Vizag,Member,Female,Snacks,7,577,201.95,4240.95,Cash,4,6,Friday,4,2024,4039,403.9
+INV-1096,ZenMart East,Vizag,Non-Member,Male,Groceries,2,566,56.6,1188.6,Cash,6,7,Saturday,4,2024,1132,113.2
+INV-1097,ZenMart Central,Vijayawada,Member,Female,Bakery,9,272,122.4,2570.4,Upi,6,8,Sunday,4,2024,2448,244.8
+INV-1098,ZenMart East,Hyderabad,Member,Male,Snacks,1,409,20.45,429.45,Cash,1,9,Monday,4,2024,409,40.9
+INV-1099,ZenMart East,Hyderabad,Non-Member,Female,Household,6,613,183.9,3861.9,Upi,8,10,Tuesday,4,2024,3678,367.8
+INV-1100,ZenMart Central,Hyderabad,Member,Female,Bakery,7,275,96.25,2021.25,Cash,6,11,Wednesday,4,2024,1925,192.5
+INV-1101,ZenMart Central,Vijayawada,Non-Member,Male,Meat,8,728,291.2,6115.2,Cash,3,12,Thursday,4,2024,5824,582.4
+INV-1102,ZenMart Central,Vizag,Member,Male,Groceries,9,834,375.3,7881.3,Upi,9,13,Friday,4,2024,7506,750.6
+INV-1103,ZenMart East,Vizag,Non-Member,Female,Snacks,2,469,46.9,984.9,Upi,2,14,Saturday,4,2024,938,93.8
+INV-1104,ZenMart Central,Hyderabad,Member,Male,Snacks,2,29,2.9,60.9,Cash,8,15,Sunday,4,2024,58,5.8
+INV-1105,ZenMart Central,Vizag,Non-Member,Female,Snacks,5,843,210.75,4425.75,Upi,3,16,Monday,4,2024,4215,421.5
+INV-1106,ZenMart East,Vizag,Non-Member,Male,Household,5,817,204.25,4289.25,Cash,5,17,Tuesday,4,2024,4085,408.5
+INV-1107,ZenMart Central,Vijayawada,Non-Member,Female,Bakery,6,261,78.3,1644.3,Upi,6,18,Wednesday,4,2024,1566,156.6
+INV-1108,ZenMart East,Vijayawada,Non-Member,Female,Household,3,270,40.5,850.5,Credit Card,6,19,Thursday,4,2024,810,81
+INV-1109,ZenMart West,Vijayawada,Non-Member,Female,Electronics,8,896,358.4,7526.4,Credit Card,4,20,Friday,4,2024,7168,716.8
+INV-1110,ZenMart Central,Vijayawada,Member,Female,Beverages,1,24,1.2,25.2,Credit Card,3,21,Saturday,4,2024,24,2.4
+INV-1111,ZenMart West,Hyderabad,Member,Female,Beverages,6,138,41.4,869.4,Credit Card,4,22,Sunday,4,2024,828,82.8
+INV-1112,ZenMart East,Vijayawada,Member,Female,Electronics,4,820,164,3444,Credit Card,1,23,Monday,4,2024,3280,328
+INV-1113,ZenMart Central,Vizag,Non-Member,Male,Bakery,1,393,19.65,412.65,Cash,4,24,Tuesday,4,2024,393,39.3
+INV-1114,ZenMart East,Hyderabad,Member,Male,Meat,7,84,29.4,617.4,Credit Card,1,25,Wednesday,4,2024,588,58.8
+INV-1115,ZenMart West,Vizag,Non-Member,Male,Household,9,165,74.25,1559.25,Credit Card,1,26,Thursday,4,2024,1485,148.5
+INV-1116,ZenMart East,Vizag,Non-Member,Female,Groceries,4,243,48.6,1020.6,Credit Card,6,27,Friday,4,2024,972,97.2
+INV-1117,ZenMart Central,Vizag,Member,Female,Snacks,4,258,51.6,1083.6,Credit Card,5,28,Saturday,4,2024,1032,103.2
+INV-1118,ZenMart Central,Vijayawada,Member,Female,Snacks,6,196,58.8,1234.8,Upi,4,29,Sunday,4,2024,1176,117.6
+INV-1119,ZenMart West,Vijayawada,Non-Member,Female,Bakery,3,798,119.7,2513.7,Cash,3,30,Monday,4,2024,2394,239.4
